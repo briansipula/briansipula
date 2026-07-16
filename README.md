@@ -45,3 +45,4 @@ I also hold an MBA in Finance (Unicaf University, 2024).
 I'm open to research collaboration and academic discussion on blockchain voting systems, cryptographic protocols for elections, and technology policy in African electoral contexts.
 
 📧 bsipula@gmail.com
+🌐 [briansipula.github.io](https://briansipula.github.io)
