@@ -46,3 +46,4 @@ I'm open to research collaboration and academic discussion on blockchain voting 
 
 📧 bsipula@gmail.com
 🌐 [briansipula.github.io](https://briansipula.github.io)
+🔬 [ORCID](https://orcid.org/0009-0008-8154-155X)
