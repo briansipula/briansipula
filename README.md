@@ -25,8 +25,8 @@ I also hold an MBA in Finance (Unicaf University, 2024).
 
 ## Current Work
 
-- Prototype: blockchain-based voting system built on Solidity 0.8.24 / OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, Next.js 14 — deployed to Ethereum Sepolia testnet, smart contract source code verified on Etherscan
-- Paper accepted: *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study* — E-Vote-ID 2026 PhD Colloquium, Track 5 (accepted August 2026; presentation October 2026, Tallinn)
+- Prototype: blockchain-based voting system built on Solidity 0.8.24 / OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, Next.js 14, deployed to Ethereum Sepolia testnet, smart contract source code verified on Etherscan
+- Paper accepted: *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study*, E-Vote-ID 2026 PhD Colloquium, Track 5 (accepted August 2026; presentation October 2026, Tallinn)
 
 ---
 
