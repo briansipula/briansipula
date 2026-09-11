@@ -25,15 +25,15 @@ I also hold an MBA in Finance (Unicaf University, 2024).
 
 ## Current Work
 
-- Prototype: blockchain-based voting system built on Solidity 0.8.24 / OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, Next.js 14
-- Paper under review: *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study* — E-Vote-ID 2026 PhD Colloquium (Track 5)
+- Prototype: blockchain-based voting system built on Solidity 0.8.24 / OpenZeppelin v5.x, Hardhat, PostgreSQL 16, Node/Express, Next.js 14 — deployed to Ethereum Sepolia testnet, smart contract source code verified on Etherscan
+- Paper accepted: *Deployability Versus Ballot Secrecy in Blockchain-Based Voting for Low-Resource Democracies: A Zambian Case Study* — E-Vote-ID 2026 PhD Colloquium, Track 5 (accepted August 2026; presentation October 2026, Tallinn)
 
 ---
 
 ## Background
 
 - **DBA**, Zambia Centre for Accountancy Studies (ZCAS) — Lusaka
-- **Director**, Hypermind Technologies — Lusaka
+- **Founder**, Hypermind Technologies Limited — Lusaka
 - **MSc Computer Science**, ZCAS University (2024)
 - **MBA Finance**, Unicaf University (2024)
 - **BIT**, Northrise University (2016)
@@ -47,3 +47,4 @@ I'm open to research collaboration and academic discussion on blockchain voting 
 📧 bsipula@gmail.com
 🌐 [briansipula.github.io](https://briansipula.github.io)
 🔬 [ORCID](https://orcid.org/0009-0008-8154-155X)
+📚 [Google Scholar](https://scholar.google.com/citations?user=VVgKNQQAAAAJ)
